@@ -1,0 +1,8 @@
+{
+  "name": "node-ws-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:luckyOdisetti/node-ws-server.git",
+  "author": "lucky.odisetti@gmail.com",
+  "license": "MIT"
+}
